@@ -60,8 +60,10 @@ Recruiters often face challenges in manually screening and ranking a large numbe
 - Bar chart of top 10 ranked candidates
 - Pie chart of common skills
 - Line chart comparing experience vs. score
+<img width="1057" height="574" alt="image" src="https://github.com/user-attachments/assets/c7e36eef-067b-4173-8c74-d1b770ffd8bd" />
+<img width="1055" height="605" alt="image" src="https://github.com/user-attachments/assets/310f4c92-5e49-4000-9cc9-9a340c7a54af" />
+<img width="1135" height="547" alt="image" src="https://github.com/user-attachments/assets/628bacad-e711-4477-9b01-bba8e0c318ef" />
 
-_(Add these visuals from your actual project once generated)_
 
 ---
 
