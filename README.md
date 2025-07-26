@@ -1,5 +1,5 @@
 
-# Resume Shortlisting using Machine Learning
+# Resume Shortlisting System [NLP and ML]
 
 This project is inspired by the paper _"Hiring and Recruitment Process Using Machine Learning"_ and aims to automate and optimize the resume screening process. It applies natural language processing (NLP) and machine learning techniques to evaluate and rank job candidates based on their resumes.
 
